@@ -1,0 +1,329 @@
+.mediaViewInfo {
+    --web-view-name: Dance;
+    --web-view-id: Dance;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Dance;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Dance {
+    position: absolute;
+    width: 1400px;
+    height: 1477px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Dance;
+    --web-view-id: Dance;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Rectangle_2 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1px;
+    height: 13px;
+    left: 349px;
+    top: 10px;
+}
+#grzegorz-rakowski-Ufquzn7Lcc4- {
+    opacity: 0.454;
+    position: absolute;
+    width: 1445px;
+    height: 1806px;
+    left: -22px;
+    top: -329px;
+    overflow: visible;
+}
+#elena-mozhvilo-xw8DfYBaNbQ-uns {
+    position: absolute;
+    width: 233px;
+    height: 268px;
+    left: 961px;
+    top: 575px;
+    overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+    left: 963px;
+    top: 864px;
+    position: absolute;
+    overflow: hidden;
+    width: 239px;
+    height: 201px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,9,9,1);
+}
+#steve-johnson-BNvkHyU2JPw-unsp {
+    position: absolute;
+    width: 233px;
+    height: 268px;
+    left: 201px;
+    top: 575px;
+    overflow: visible;
+}
+#phil-hearing-cylPETXS7is-unspl {
+    position: absolute;
+    width: 233px;
+    height: 268px;
+    left: 581px;
+    top: 575px;
+    overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_u {
+    left: 199px;
+    top: 864px;
+    position: absolute;
+    overflow: hidden;
+    width: 239px;
+    height: 201px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,9,9,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_v {
+    left: 581px;
+    top: 864px;
+    position: absolute;
+    overflow: hidden;
+    width: 239px;
+    height: 201px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,9,9,1);
+}
+#Dance_w {
+    left: 621px;
+    top: 276px;
+    position: absolute;
+    overflow: visible;
+    width: 160px;
+    white-space: nowrap;
+    line-height: 102px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Tamil MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    color: rgba(10,9,9,1);
+    letter-spacing: -0.4px;
+}
+#Dont_stop_the_beat {
+    left: 593px;
+    top: 377px;
+    position: absolute;
+    overflow: visible;
+    width: 215px;
+    white-space: nowrap;
+    line-height: 102px;
+    margin-top: -37px;
+    text-align: left;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,9,9,1);
+    letter-spacing: -0.4px;
+}
+#Painting {
+    left: 670px;
+    top: 117px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Painting.html;
+    cursor: pointer;
+    line-height: 39px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(13,12,12,1);
+}
+#Dance_z {
+    left: 779px;
+    top: 117px;
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    white-space: nowrap;
+    line-height: 39px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(13,12,12,1);
+}
+#Cooking {
+    left: 558px;
+    top: 117px;
+    position: absolute;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Cooking.html;
+    cursor: pointer;
+    line-height: 39px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(13,12,12,1);
+}
+#Hobby {
+    left: 644px;
+    top: 30px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 78px;
+    margin-top: -21px;
+    text-align: left;
+    font-family: Tamil MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    color: rgba(7,6,6,1);
+    letter-spacing: -0.4px;
+}
+#Rectangle_3 {
+    fill: rgba(237,212,166,0.475);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 1400px;
+    height: 69px;
+    left: 0px;
+    top: 1408px;
+}
+#Hobby_ {
+    left: 53px;
+    top: 1422px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 78px;
+    margin-top: -21px;
+    text-align: left;
+    font-family: Tamil MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    color: rgba(7,6,6,1);
+    letter-spacing: -0.4px;
+}
+#About_Us_ {
+    left: 1068px;
+    top: 1433px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    line-height: 39px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(13,12,12,1);
+}
+#Contact_Us {
+    left: 1194px;
+    top: 1433px;
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    white-space: nowrap;
+    line-height: 39px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(13,12,12,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+    left: 258px;
+    top: 1187px;
+    position: absolute;
+    overflow: visible;
+    width: 885px;
+    height: 201px;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(10,9,9,1);
+}
+#History_of_Dance {
+    left: 589px;
+    top: 1100px;
+    position: absolute;
+    overflow: visible;
+    width: 223px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Tamil MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(10,9,9,1);
+}
